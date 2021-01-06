@@ -12,9 +12,6 @@ h1, h2{
     color: #363958;
 
 }
-.header-area{
-    
-}
 .p-150{
     padding-bottom: 150px;
 }
@@ -23,9 +20,6 @@ h1, h2{
     margin-left: 5%;
     padding-left: 2%;
     float: left;
-}
-.header-left{
-
 }
 .header-left h2{
     border: 3px solid rgb(213 0 255);
@@ -36,9 +30,6 @@ h1, h2{
 .header-left h2 a{
     text-decoration: none;
     color: rgba(211, 21, 132, 0.911);
-}
-.header-right{
-
 }
 .header-right ul{
     float: right;
@@ -54,9 +45,6 @@ h1, h2{
 }
 .half-width img{
     width: 100%;
-}
-.bio-left{
-
 }
 .bio-left h1{
     font-size: 80px;
@@ -134,15 +122,11 @@ h1, h2{
 .service-area h2{
     font-size: 48px;
     text-align: center;
-    margin: 60px 0;
+    margin: 80px 0;
 }
 .service-text{
     text-align: center;
 }
-.service-text h3{
-
-}
-
 .inquiry-area{
     margin: 0px 250px;
     margin-bottom: 100px;
@@ -179,10 +163,6 @@ h1, h2{
     font-size: 36px;
     font-family: 'Roboto';
     margin: 0;
-}
-}
-.footer-icon{
-
 }
 .footer-icon img{
     width: 3%;
