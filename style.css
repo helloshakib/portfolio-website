@@ -60,12 +60,12 @@ h1, h2{
 }
 .bio-left h1{
     font-size: 80px;
-    line-height: 80px;
+    line-height: 90px;
     margin: 0;
     font-weight: 700;
 }
 .bio-area p{
-    margin-bottom: 40px;
+    margin-bottom: 55px;
     color: #3E3E3E;
 }
 .name{
@@ -140,7 +140,7 @@ h1, h2{
     text-align: center;
 }
 .service-text h3{
-    
+
 }
 
 .inquiry-area{
